@@ -1,0 +1,8 @@
+prefix=/home/alesb/catkin_ws/devel
+
+Name: first_robot_contoller
+Description: Description of first_robot_contoller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
